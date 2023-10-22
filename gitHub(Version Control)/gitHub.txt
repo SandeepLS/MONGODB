@@ -1,0 +1,4 @@
+When you build an application apart from the learning Language and Tools, to build the application, there are other thinks have to know git.
+So, that means irrespective of wt kind of application u can building, it can be Mobile, web, Enterprise you will be using this tool for two reason.
+i)Version control ii) Collaboration.
+And most of the think we do throug Commands.
